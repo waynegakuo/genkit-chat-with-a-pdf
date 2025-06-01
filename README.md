@@ -90,6 +90,3 @@ The AI will respond with information from the PDF about Formula One.
 ## 📚 Resources
 
 - [Tutorial: Chat with a PDF](https://genkit.dev/docs/tutorials/tutorial-chat-with-a-pdf/): Official Genkit tutorial for this project 🔍
-#   g e n k i t - c h a t - w i t h - a - p d f 
- 
- 
