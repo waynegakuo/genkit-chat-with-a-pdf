@@ -20,7 +20,7 @@ npm install
 
 4. Set up your Gemini API Key:
 
-> **Note:** Git Bash is the recommended terminal for setting Gemini API keys and running other Genkit commands.
+> **Note:** Git Bash is the recommended terminal for setting Gemini API keys and running other Genkit commands. When running the application, it should be done in the same terminal that was used to set the Gemini API key.
 
 ```bash
 # In Git Bash (Recommended)
