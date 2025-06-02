@@ -47,7 +47,7 @@ npx tsx src/index.ts <path-to-pdf-file>
 For example, to chat with the included Formula One PDF 🏁:
 
 ```bash
-npx tsx src/index.ts src\docs\Formula\ One\ \(F1\)\ Explained.pdf
+npx tsx src/index.ts src\docs\Formula_One_F1_Explained.pdf
 ```
 
 You can also provide an optional custom prompt:
@@ -79,7 +79,7 @@ The AI will respond with information from the PDF about Formula One.
 
 - `src/index.ts`: Main application code
 - `src/docs/`: Contains example PDF files
-  - `Formula One (F1) Explained.pdf`: An example PDF about Formula One racing 🏎️ 🏁
+  - `Formula_One_F1_Explained.pdf`: An example PDF about Formula One racing 🏎️ 🏁
 
 ## 🛠️ Technologies Used
 
